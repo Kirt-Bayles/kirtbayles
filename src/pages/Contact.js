@@ -24,12 +24,12 @@ function Contact() {
                                     <ul>
                                         <li>
                                             <p className="text-content text-justify">
-                                                <b>Email : </b> <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMTtQLDlSPGJSkhQNznJJbKpHSVXZnLJGnHTTDHhHcKRQNKnmmQdsBmZwTqmCwDFQcttRQb" rel="noreferrer"> kirtbayles@gmail.com</a>
+                                                <b>Email : </b> <a href="https://mail.google.com/mail/u/2/#inbox?compose=DmwnWrRtswQDkSxMBQptHTTLVwbVNDcNJmcZKxKJCHClMMzzPBSwgHmkWNLqqvvhxPFKvVvLnzqq" rel="noreferrer"> bayleskirt2001@gmail.com</a>
                                             </p>
                                         </li>
                                         <li>
                                             <p className="text-content text-justify">
-                                                <b>Github : </b> <a href="https://github.com/kirtbayles01" rel="noreferrer"> kirtbayles01</a>
+                                                <b>Github : </b> <a href="https://github.com/Kirt-Bayles/" rel="noreferrer"> Kirt-Bayles</a>
                                             </p>
                                         </li>
                                         <li>
